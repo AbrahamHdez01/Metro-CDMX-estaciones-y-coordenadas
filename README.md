@@ -1,11 +1,5 @@
 # Metro CDMX: Estaciones y Coordenadas
 
-![Logo Metro CDMX](https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_del_Metro_de_la_Ciudad_de_México.svg)
-
-![Mapa de Líneas del Metro CDMX](https://metro.cdmx.gob.mx/storage/app/media/lared/MAPA_MI_3V.png)
-
-
-
 Hola !
 
 Este repositorio contiene información sobre las estaciones del Metro de la Ciudad de México, incluyendo sus nombres y coordenadas geográficas (algunas aún faltan). El objetivo es facilitar el acceso a estos datos para cualquier persona interesada, así como permitir la actualización del estado de las estaciones según su disponibilidad.
@@ -37,3 +31,5 @@ Siéntete libre de hacer un fork, abrir un issue o enviar un pull request. ¡La 
 **Hecho para contribuir algo a la comunidad .** 
 **Contáctame:**
 📧 abrahammartinezhdez629@gmail.com
+
+![Mapa de Líneas del Metro CDMX](https://metro.cdmx.gob.mx/storage/app/media/lared/MAPA_MI_3V.png)
