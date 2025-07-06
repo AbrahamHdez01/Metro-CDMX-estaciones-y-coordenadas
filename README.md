@@ -1,8 +1,8 @@
 # Metro CDMX: Estaciones y Coordenadas
 
-![Logo Metro CDMX](https://upload.wikimedia.org/wikipedia/commons/6/6e/Logo_Metro_CDMX.png)
+![Logo Metro CDMX](https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_del_Metro_de_la_Ciudad_de_México.svg)
 
-![Mapa de Líneas del Metro CDMX](https://upload.wikimedia.org/wikipedia/commons/2/2e/Mapa_Metro_Ciudad_de_Mexico_2023.png)
+![Mapa de Líneas del Metro CDMX](https://metro.cdmx.gob.mx/storage/app/media/lared/MAPA_MI_3V.png)
 
 
 
