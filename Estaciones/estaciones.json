@@ -1,0 +1,590 @@
+[
+    {
+      "name": "Observatorio, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Tacubaya, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Juanacatlán, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Chapultepec, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Sevilla, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Insurgentes, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Cuauhtémoc, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Balderas, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Salto del Agua, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Isabel la Católica, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Pino Suárez, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Merced, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Candelaria, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "San Lázaro, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Moctezuma, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Balbuena, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Boulevard Puerto Aéreo, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Gómez Farías, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Zaragoza, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Pantitlán, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Cuatro Caminos, Naucalpan de Juárez, Méx., México",
+      "available": true
+    },
+    {
+      "name": "Panteones, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Tacuba, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Cuitláhuac, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Popotla, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Colegio Militar, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Normal, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "San Cosme, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Revolución, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Hidalgo, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Bellas Artes, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Allende, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Zócalo/Tenochtitlan, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "San Antonio Abad, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Chabacano, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Xola, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Villa de Cortés, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Nativitas, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Portales, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Ermita, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "General Anaya, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Tasqueña, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Indios Verdes, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Deportivo 18 de Marzo, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Potrero, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "La Raza, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Tlatelolco, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Guerrero, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Juárez, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Niños Héroes, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Hospital General, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Centro Médico, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Etiopía/Plaza de la Transparencia, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Eugenia, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "División del Norte, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Zapata, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Coyoacán, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Viveros/Derechos Humanos, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Miguel Ángel de Quevedo, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Copilco, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Universidad, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Martín Carrera, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Talismán, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Bondojito, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Consulado, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Canal del Norte, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Morelos, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Fray Servando, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Jamaica, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Santa Anita, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Politécnico, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Instituto del Petróleo, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Autobuses del Norte, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Misterios, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Valle Gómez, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Eduardo Molina, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Aragón, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Oceanía, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Terminal Aérea, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Hangares, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "El Rosario, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Tezozomoc, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Azcapotzalco, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Ferrería/Arena Ciudad de México, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Norte 45, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Vallejo, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Lindavista, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "La Villa-Basílica, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Aquiles Serdán, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Camarones, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Refinería, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "San Joaquín, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Polanco, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Auditorio, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Constituyentes, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "San Pedro de los Pinos, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "San Antonio, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Mixcoac, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Barranca del Muerto, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Garibaldi/Lagunilla, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "San Juan de Letrán, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Doctores, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Obrera, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "La Viga, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Coyuya, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Iztacalco, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Apatlaco, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Aculco, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Escuadrón 201, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Atlalilco, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Iztapalapa, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Cerro de la Estrella, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "UAM-I, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Constitución de 1917, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Puebla, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Ciudad Deportiva, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Velódromo, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Mixiuhca, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Lázaro Cárdenas, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Chilpancingo, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Patriotismo, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Insurgentes Sur, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "20 de Noviembre, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Parque de los Venados, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Eje Central, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Mexicaltzingo, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Culhuacán, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "San Andrés Tomatlán, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Lomas Estrella, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Calle 11, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Periférico Oriente, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Tezonco, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Olivos, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Nopalera, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Zapotitlán, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Tlaltenco, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Tláhuac, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Agrícola Oriental, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Canal de San Juan, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Tepalcates, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Guelatao, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Peñón Viejo, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Acatitla, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Santa Marta, Ciudad de México, CDMX, México",
+      "available": true
+    },
+    {
+      "name": "Los Reyes, Estado de México, México",
+      "available": true
+    },
+    {
+      "name": "La Paz, Estado de México, México",
+      "available": true
+    },
+    {
+      "name": "Buenavista, Ciudad de México, CDMX, México",
+      "available": true
+    }
+  ]
